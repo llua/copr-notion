@@ -99,7 +99,7 @@ popd
 %{_datadir}/xsessions/%{name}.desktop
 
 %changelog
-* Sun Sep 09 2020 Eric Cook <llua@gmx.com> - 4.0.1
+* Wed Sep 09 2020 Eric Cook <llua@gmx.com> - 4.0.1
 - Update to 4.0.1
 * Sun Sep 08 2019 Eric Cook <llua@gmx.com> - 3-2019050101
 - Update to current release
