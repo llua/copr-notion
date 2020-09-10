@@ -1,5 +1,5 @@
 # Notion WM specfile
-> An Copr scm repo for the Notion WM
+> An Copr scm repo for building Notion WM on fedora
 
 ## Contributing
 
