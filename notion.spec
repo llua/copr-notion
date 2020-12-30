@@ -1,5 +1,5 @@
 Name:               notion
-Version:            4.0.1
+Version:            4.0.2
 Release:            1
 Summary:            Free Tiling Tabbed Window Manager
 Source:             https://github.com/raboof/%{name}/archive/%{version}.tar.gz
@@ -99,6 +99,8 @@ popd
 %{_datadir}/xsessions/%{name}.desktop
 
 %changelog
+* Wed Dec 30 2020 Eric Cook <llua@gmx.com> - 4.0.2
+- Update to 4.0.2
 * Wed Sep 09 2020 Eric Cook <llua@gmx.com> - 4.0.1
 - Update to 4.0.1
 * Sun Sep 08 2019 Eric Cook <llua@gmx.com> - 3-2019050101
